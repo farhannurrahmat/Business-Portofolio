@@ -46,16 +46,16 @@ nav ul {
 }
 
 .logo {
-    width: 70px;
+    width: 150px;
     /* letter-spacing: 1px; */
-    color: whitesmoke;
-    font-family: Phenomena;
+    /* color: whitesmoke;
+    font-family: Phenomena; */
 }
 
-.logo span{
+/* .logo span{
     color: #0d6efd;
     font-family: Phenomena;
-}
+} */
 
 nav ul li{
     display: inline-block;
@@ -347,11 +347,11 @@ form .btn2{
 }
 
 /* RESPONSIF */
-@media only screen and (max-width:600px){
-    body{
+@media only screen and (max-width:800px){
+    /* body{
         padding-left: 30px;
         padding-right: 30px;
-    }
+    } */
     .sub-title{
         font-size: 40px;
     }
